@@ -1,0 +1,42 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizzApp</string>
+
+    <string name="name_hint">"What's your name?"</string>
+    <string name="name_prompt">"Please enter your name."</string>
+    <string name="start_quiz">"Start quiz"</string>
+    <string name="restart_quiz">"Let me try again!"</string>
+
+    <!--questions-->
+    <string name="question_text_1">"What's this creature?"</string>
+    <string name="question_text_2">"What's in this picture?"</string>
+    <string name="question_text_3">"Ok, enough with this crappy paint drawings. Who's that?"</string>
+    <string name="question_text_4">"Is this parrot dead?"</string>
+    <string name="question_1_answer_1">"It's an orc"</string>
+    <string name="question_1_answer_2">"Goblin, obviously"</string>
+    <string name="question_2_answer_1">"I know dragon when I see one!"</string>
+    <string name="question_2_answer_2">"Looks like Loch Ness monster to me"</string>
+    <string name="question_3_answer_1">"It's the Weevil"</string>
+    <string name="question_3_answer_2">"It's Punisher! One batch, two batch, penny and dime..."</string>
+    <string name="question_3_answer_3">"It's the Tick! Spooooon!"</string>
+    <string name="question_4_answer_1">"Dead. Guy should ask for a refund"</string>
+    <string name="question_4_answer_2">"Relax, it's just resting"</string>
+    <string name="question_5_answer_1">"It's an elephant"</string>
+    <string name="question_5_answer_2">"It's a snake"</string>
+    <string name="question_5_answer_3">"It's just some old hat"</string>
+<!--summary and comments of result score -->
+    <string name="comment_1">"\n...Oh dear.";</string>
+    <string name="comment_2">"\nNice try though."</string>
+    <string name="comment_3">"\nNot bad."</string>
+    <string name="comment_4">"\nVery good!"</string>
+    <string name="summary">"%s, your result is: %d/5! %s"</string>
+
+    <!--explanations of right answers-->
+    <string name="explanation_1">"Q1: Just look how menacing and strong he is! No goblin can look so dangerous. It's an orc!"</string>
+    <string name="explanation_2">"Q2: It's a Loch Ness monster. Notice how it's not breathing fire and has no wings?"</string>
+    <string name="explanation_3">"Q3: It seems you really need to take a make-up exam on cool old shows. It's a Tick!"</string>
+    <string name="explanation_4">"Q4: Nope, this one's still rolling :)"</string>
+    <string name="explanation_5">"Q5: It might look like a hat but if you look closer you'll see it's a snake that just ate an elephant. Scary, isn't it?"</string>
+    <string name="greetings">"Hello! Welcome to 'What's in the picture?' quiz! \nHave fun!"</string>
+
+
+</resources>
